@@ -26,11 +26,12 @@ Build a REST API that enables users to ask questions about a provided financial 
    - Handle follow-up questions that reference previous exchanges
 
 4. **Arithmetic Capabilities**
-   - Perform simple calculations based on document data (e.g., "What's the difference between Q1 and Q2 revenue?")
+   - Perform simple calculations based on document data (e.g., "What was the percentage change in total sales from 2023 to 2024?" <em>Requires: Finding sales for both years and calculating the percentage change</em>)
 
 ### Bonus Features (Optional)
 
-- Support for more complex, multi-step arithmetic operations (e.g., "What was the total revenue difference between the first and second half of the year: (Q3 + Q4) - (Q1 + Q2)?")
+- Support for more complex, multi-step arithmetic operations
+(e.g., "If you combine the sales from Zone North America and Zone Europe, what percentage of total Group sales do these two zones represent in 2024?" <em>Requires: Finding NA sales, EUR sales, total sales, adding the two zones, then calculating percentage</em>)
 - Frontend chat interface for interacting with the API
 - Method for evaluating system performance and accuracy
 - Additional enhancements you think would improve the user experience
