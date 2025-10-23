@@ -4,7 +4,7 @@
 
 Build a REST API that enables users to ask questions about a provided financial document (PDF) with conversational capabilities and arithmetic reasoning.
 
-**Time Allocation:** 4 hours maximum
+**Time Allocation:** We don't expect candidates to spend more than 4hrs on this task
 
 ## The Challenge
 
@@ -62,10 +62,9 @@ Include the following sections:
 
 ## Constraints & Guidelines
 
-- **Time Limit:** Please spend no more than 4 hours on this assignment
 - **No Agentic Coding Tools:** Do not use AI-powered coding assistants like Claude Code, Cursor, GitHub Copilot Agent mode, or similar agentic tools. Standard IDE features and documentation are fine.
-- **Technology Stack:** Use whatever technologies you're most comfortable with
-- **Scope:** We understand this is time-boxed, please get as far as you can in the time
+- **Technology Stack:** Use whatever technologies you're most comfortable with, but in regards to programming languages please use Python and/or Typescript
+- **Scope:** We understand this is a vauge brief, please get as far as you can without spending excessive amounts of time on the task
 
 ## Evaluation Criteria
 
